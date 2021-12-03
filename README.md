@@ -1,1 +1,19 @@
 # kattintos-szoveg
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<title>színes feladat</title>
+</head>
+<body>
+    <h1 style="color:rgb(78, 1, 1);">Czifra Péter</h1>
+    <h2 style="color:red;"> Czifra Péter </h2>
+    <h3 style="color:pink;">Czifra Péter </h3>
+    <h4 style="color:rgb(140, 0, 255);">Czifra Péter </h4>
+    <h5 style="color:rgb(0, 162, 255);">Czifra Péter </h5>
+    <h6 style="color:rgb(255, 0, 140);">Czifra Péter </h6>
+    <p style="background-color:rgb(240, 209, 168);">Grófo-Kozák László, korábban Kis Grófo, eredeti nevén Kozák László (Szolnok, 1993 –) magyarországi cigány popénekes, aki a tartalommegosztó csatornákon vált népszerűvé, főként 2012-es No roxa áj illetve 2015-ös Bulibáró című dalaival. Dalai műfaját „<a href="https://www.youtube.com/watch?v=psha3ecS5K8" target="_blank">mulatásinak</a>” nevezi.</p>
+    <body style="background-color:khaki;"> </p>
+    </body>
+    </html>
